@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi, I'm Nahuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer&center=true&width=500&height=50"></a>
-</p>
+<h3 align="center">
+ Software Engineer
+</h3>
+
 <hr/>
 
 ## 💻 Tech Stack:
@@ -9,7 +11,8 @@
 ## 👨🏻‍💻 About Me
 Information Systems Engineer, graduated from Universidad Nacional del Sur (UNS).
 
-Frontend Developer with 2+ years of experience specializing in Next.js, React, Vue, and Angular. Focused on building scalable, high-performance web applications and delivering great user experiences. Strong advocate of clean code and SOLID principles.
+Software Engineer with 2+ years of experience building end-to-end web applications across frontend and backend environments. Experienced in designing modern user interfaces with React and Next.js, developing APIs with C#/.NET, integrating relational databases, and delivering software for industrial and SaaS use cases.
+Strong background in product-oriented development, system integration, and scalable application architecture. Focused on building reliable software solutions across the full development lifecycle.
 Particularly interested in IA, its practical application in software development, and process automation. I am highly motivated by continuous learning and by adopting new technologies that help me grow as a professional.
 
 On a personal level, I consider myself a proactive, responsible, organized, and punctual person, with strong teamwork skills, good communication, and a results-oriented mindset. I enjoy collaborating with others and taking on new challenges that allow me to keep growing.
